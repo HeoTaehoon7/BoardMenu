@@ -45,7 +45,7 @@
 </head>
 <body>
 	<main>  
-	  <h2>메뉴 목록(수정)</h2>
+	  <h2>메뉴 목록(수정2)</h2>
 	  <table>
 	    <tr>
 	      <td>Menu_id</td>
